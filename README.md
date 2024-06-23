@@ -1,8 +1,13 @@
-# React + Vite
+# Hubsinger website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es el repositorio del proyecto Hubsinger
 
-Currently, two official plugins are available:
+## Descripción
+Hubsinger es una plataforma y red social en la que puedas buscar toda la información relacionada de tus artistas favoritos y del momento. Encuentra desde su información básica hasta sus recientes conciertos y lanzamientos.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Herramientas
+- Javascript
+- React
+- API'S
+- SQL
